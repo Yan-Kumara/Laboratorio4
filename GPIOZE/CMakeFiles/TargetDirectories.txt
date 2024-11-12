@@ -1,0 +1,5 @@
+C:/Users/Aluno/Desktop/Projeto4/Laboratorio4/GPIOZE/CMakeFiles/GPIOZE.dir
+C:/Users/Aluno/Desktop/Projeto4/Laboratorio4/GPIOZE/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Desktop/Projeto4/Laboratorio4/GPIOZE/CMakeFiles/rebuild_cache.dir
+C:/Users/Aluno/Desktop/Projeto4/Laboratorio4/GPIOZE/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Desktop/Projeto4/Laboratorio4/GPIOZE/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
